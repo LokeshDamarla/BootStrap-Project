@@ -1,0 +1,53 @@
+body{
+  background-color: #bb3b0e;
+}
+
+h1{
+  background-color: #f6f578;
+  color:#fff;
+  text-align: center;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+.container-fluid{
+  padding: 3% 15%
+}
+.navbar{
+  padding-bottom: 1rem;
+}
+.navbar-brand{
+  font-family: "ubuntu";
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+p{
+  padding: 3% 15%;
+  text-align: center;
+  color: #fff;
+}
+h2{
+  font-family:cursive;
+  text-align: center;
+  line-height: 1.5;
+  color: #442727;
+}
+.jumbotron{
+  width: 100%;
+}
+.testimonial-text{
+  color: #fff;
+  font-family: serif;
+}
+#testimonials{
+  padding: 7% 15%;
+  text-align: center;
+  background-color: #bb3b0e;
+}
+.testimonial-image{
+  width: 30%;
+  border-radius: 100%;
+  margin: 20px;
+}
+.testimonial-text{
+  color: #fff;
+}
